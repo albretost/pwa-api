@@ -1,0 +1,85 @@
+{
+"products": [
+{
+  "id": 1,
+  "name": "Thunberg's Geranium",
+  "category": "Fuscia"
+}, {
+  "id": 2,
+  "name": "Distaff Thistle",
+  "category": "Green"
+}, {
+  "id": 3,
+  "name": "Pale Seagrape",
+  "category": "Mauv"
+}, {
+  "id": 4,
+  "name": "Rose Meadowsweet",
+  "category": "Green"
+}, {
+  "id": 5,
+  "name": "Coastal Larkspur",
+  "category": "Pink"
+}, {
+  "id": 6,
+  "name": "Threadleaf Crowfoot",
+  "category": "Goldenrod"
+}, {
+  "id": 7,
+  "name": "Sierra Bluecup",
+  "category": "Red"
+}, {
+  "id": 8,
+  "name": "Sarmenthypnum Moss",
+  "category": "Indigo"
+}, {
+  "id": 9,
+  "name": "Ceylon Gooseberry",
+  "category": "Khaki"
+}, {
+  "id": 10,
+  "name": "Bolander's Reedgrass",
+  "category": "Khaki"
+}, {
+  "id": 11,
+  "name": "Essex Dewberry",
+  "category": "Mauv"
+}, {
+  "id": 12,
+  "name": "Raintree",
+  "category": "Indigo"
+}, {
+  "id": 13,
+  "name": "Tobias' Saxifrage",
+  "category": "Aquamarine"
+}, {
+  "id": 14,
+  "name": "Reimar Grass",
+  "category": "Orange"
+}, {
+  "id": 15,
+  "name": "Wasabia",
+  "category": "Puce"
+}, {
+  "id": 16,
+  "name": "Cow Itch Tree",
+  "category": "Khaki"
+}, {
+  "id": 17,
+  "name": "Cottonflower",
+  "category": "Mauv"
+}, {
+  "id": 18,
+  "name": "Large-leaf Yellow Teatree",
+  "category": "Fuscia"
+}, {
+  "id": 19,
+  "name": "Tidestrom's Beardtongue",
+  "category": "Yellow"
+}, {
+  "id": 20,
+  "name": "Livingstone's Garcinia",
+  "category": "Aquamarine"
+}
+]
+}
