@@ -1,5 +1,6 @@
 {
-"products": [{
+"products": [
+  {
   "id": 1,
   "title": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
   "body": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
@@ -59,5 +60,6 @@
   "body": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
   "created_at": "3:43 PM",
   "updated_at": "12:11 PM"
-}]
+}
+]
 }
