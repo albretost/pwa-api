@@ -1,8 +1,41 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+[
+  {
+    "properties": {
+      "odp": 0,
+      "pdp": 0,
+      "positif": 226,
+      "sembuh": 206,
+      "meninggal": 6,
+      "update": "Rabu, 2 September 2020 08:03",
+      "color": "#9e180d",
+      "urai": "KAB. BARITO SELATAN",
+      "tipe": "kabkota"
     }
-  ]
-}
+  },
+  {
+    "properties": {
+      "odp": 0,
+      "pdp": 0,
+      "positif": 303,
+      "sembuh": 266,
+      "meninggal": 23,
+      "update": "Rabu, 2 September 2020 08:04",
+      "color": "#9e180d",
+      "urai": "KAB. KAPUAS",
+      "tipe": "kabkota"
+    }
+  },
+  {
+    "properties": {
+      "odp": 0,
+      "pdp": 0,
+      "positif": 929,
+      "sembuh": 699,
+      "meninggal": 55,
+      "update": "Rabu, 2 September 2020 08:05",
+      "color": "#9e180d",
+      "urai": "KOTA PALANGKARAYA",
+      "tipe": "kabkota"
+    }
+  }
+]
