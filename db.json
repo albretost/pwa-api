@@ -1,73 +1,9 @@
-{
-  "posts": [{
-  "id": 1,
-  "title": "in tempor turpis nec euismod scelerisque",
-  "body": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-  "category": "Once",
-  "created_at": "12:38 AM",
-  "updated_at": "11:13 AM"
-}, {
-  "id": 2,
-  "title": "quis turpis eget elit sodales scelerisque mauris sit amet eros",
-  "body": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-  "category": "Monthly",
-  "created_at": "9:42 AM",
-  "updated_at": "6:10 AM"
-}, {
-  "id": 3,
-  "title": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat",
-  "body": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-  "category": "Seldom",
-  "created_at": "5:38 PM",
-  "updated_at": "8:10 AM"
-}, {
-  "id": 4,
-  "title": "elementum in hac habitasse platea dictumst morbi vestibulum",
-  "body": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-  "category": "Never",
-  "created_at": "12:05 AM",
-  "updated_at": "4:26 PM"
-}, {
-  "id": 5,
-  "title": "augue quam sollicitudin vitae consectetuer eget rutrum at lorem",
-  "body": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-  "category": "Weekly",
-  "created_at": "1:35 PM",
-  "updated_at": "5:15 AM"
-}, {
-  "id": 6,
-  "title": "nulla nunc purus phasellus in felis donec semper",
-  "body": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-  "category": "Weekly",
-  "created_at": "11:51 AM",
-  "updated_at": "1:30 PM"
-}, {
-  "id": 7,
-  "title": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",
-  "body": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-  "category": "Yearly",
-  "created_at": "7:19 AM",
-  "updated_at": "11:57 AM"
-}, {
-  "id": 8,
-  "title": "suscipit ligula in lacus curabitur at ipsum ac",
-  "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-  "category": "Weekly",
-  "created_at": "5:29 PM",
-  "updated_at": "8:54 PM"
-}, {
-  "id": 9,
-  "title": "pede ullamcorper augue a suscipit nulla",
-  "body": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-  "category": "Often",
-  "created_at": "12:54 AM",
-  "updated_at": "7:05 AM"
-}, {
-  "id": 10,
-  "title": "sollicitudin ut suscipit a feugiat et eros vestibulum ac est",
-  "body": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-  "category": "Once",
-  "created_at": "6:41 AM",
-  "updated_at": "1:26 PM"
-}]
-}
+[
+    {
+    "odp":0,"pdp":0,"positif":303,"sembuh":266,"meninggal":23,"update":"Rabu, 2 September 2020 08:04","color":"#9e180d","urai":"KAB. KAPUAS","tipe":"kabkota"
+    }, {
+    "odp":0,"pdp":0,"positif":929,"sembuh":699,"meninggal":55,"update":"Rabu, 2 September 2020 08:05","color":"#9e180d","urai":"KOTA PALANGKARAYA","tipe":"kabkota"
+    }, {
+      "odp":0,"pdp":0,"positif":76,"sembuh":69,"meninggal":3,"update":"Senin, 24 Agustus 2020 08:18","color":"#9e180d","urai":"KAB. GUNUNG MAS","tipe":"kabkota"
+    }
+]
